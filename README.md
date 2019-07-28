@@ -6,7 +6,7 @@ Using the keras framework a basic CNN model was created.This project helps in un
 After you are done you can write a letter on a piece of paper upload it and it the model will recongize your handwritting!
 
 All the preprocessing steps such as normalization and conversion to grayscale and resizing have been mentioned in the code(For your own image).
-If there are any doubts feel free to ask in the comments!
+
 
 Cheers:/
 
